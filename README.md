@@ -10,10 +10,11 @@ _____
 untitled is for downloading
 untitled1 is the week 1 file
 _____
-#WEEK2
+# WEEK2
 _____
 week2.ipynb file has week2 data
-#WEEK3
+______
+# WEEK3
 _____
 
 #WEEK4
