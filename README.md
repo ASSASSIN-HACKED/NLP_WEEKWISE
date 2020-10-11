@@ -16,6 +16,10 @@ week2.ipynb file has week2 data (week2 hw is in week 3 beginning)
 ______
 # WEEK3
 _____
+It has week3 and magnum opus task
+_____
 
 # WEEK4
+_____
+week 4 modelling using spacy
 _____
