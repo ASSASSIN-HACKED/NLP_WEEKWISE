@@ -16,10 +16,20 @@ week2.ipynb file has week2 data (week2 hw is in week 3 beginning)
 ______
 # WEEK3
 _____
-It has week3 and magnum opus task
+Week 3 task is uploaded
 _____
 
 # WEEK4
 _____
-week 4 modelling using spacy
+TEXT task inside folder
+Magnum opus task is in outside folder
 _____
+
+# WEEK5
+_____
+SPACY task ipynb is uploaded directly
+_____
+# WEEK6
+______
+NPVP folder containing npvp and its containing images
+______
