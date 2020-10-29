@@ -33,3 +33,5 @@ _____
 ______
 NPVP folder containing npvp and its containing images
 ______
+there is an alternative file on verb phrase
+Also two files titled microsoft teams contain files on coca model that we discussed in class.
