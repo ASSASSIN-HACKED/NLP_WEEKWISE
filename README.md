@@ -1,6 +1,6 @@
 # NLP_WEEKWISE
 _________________
-NLP WEEKLY TASK
+NLP WEEKLY TASK - This is Shounak Bhattacharya 18BCE0548's NLP weekly task submission.
 _______________
 ASSIGNMENTS
 ___________
